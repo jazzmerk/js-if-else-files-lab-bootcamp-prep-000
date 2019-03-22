@@ -1,7 +1,7 @@
 var name = 
-"Joe"
+"Susan"
 var height = 
-"74"
+"70"
 
 
 // Don't worry about this
