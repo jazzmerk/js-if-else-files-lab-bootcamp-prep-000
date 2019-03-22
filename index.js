@@ -1,12 +1,6 @@
-var name = "Joe"
-var height = "74"
-if (name==="Susan"){
-  console.log("Correctomundo")
-}
+var name = "Joe
 
-else{
-  console.log ("You Have failed")
-}
+
 
 // Don't worry about this
 module.exports = { name, height
